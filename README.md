@@ -1,2 +1,8 @@
-# AWS-Cloud-Practioner-Class-Module-07
-Monitoring and Analytics
+# Monitoring and Analytics
+
+
+[AWS Cloud Practitioner Home](https://github.com/pslucas0212/AWS-Cloud-Practioner)
+
+### Introduction
+
+#### Transcript
